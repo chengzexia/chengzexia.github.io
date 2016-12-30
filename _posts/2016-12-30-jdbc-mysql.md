@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title:  "JDBC(MySql)"
+title:  "JDBC(Mysql)"
 date:   2016/12/30 15:55:51 
 categories: [config]
 
